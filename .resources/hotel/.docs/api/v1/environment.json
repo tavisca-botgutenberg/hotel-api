@@ -1,15 +1,15 @@
 {	
 	"environments": [
 		{
-			"baseUrl": "https://hotel.qa.cnxloyalty.com",
+			"baseUrl": "https://hotel-loyalty.qa.cnxloyalty.com",
 			"type": "qa"
 		},
 		{
-			"baseUrl": "https://hotel.stage.cnxloyalty.com",
+			"baseUrl": "https://hotel-loyalty.stage.cnxloyalty.com",
 			"type": "stage"
 		},
 		{
-			"baseUrl": "https://hotel.stage.cnxloyalty.com",
+			"baseUrl": "https://hotel-loyalty.cnxloyalty.com",
 			"type": "prod"
 		}
 	]		
